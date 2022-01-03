@@ -15,4 +15,5 @@ python -m pip install flask
 python -m pip install sklearn
 ```
 ## CARA MENJALANKAN PROGRAM
+```
 python app.py
