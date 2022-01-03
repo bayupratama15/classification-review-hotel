@@ -8,7 +8,7 @@ Pertama kita harus install Python terlebih dahulu disini https://www.python.org/
 
 ## CARA INSTALL
 ```
--python -m pip install pandas
+python -m pip install pandas
 ```
 python -m pip install flask
 ```
